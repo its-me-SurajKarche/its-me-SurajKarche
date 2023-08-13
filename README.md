@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **its-me-SurajKarche/its-me-SurajKarche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Suraj Karche</h1>
+<h1 align="center">Hi there 👋, I'm Suraj Karche</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
 
