@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Suraj Karche</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-surajkarche&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-surajkarche" /> </p>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/its-me-SurajKarche](https://github.com/its-me-SurajKarche)
 
-- 💬 Ask me about **Frontend and Java**
+- 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me **surajkarche@gmail.com**
 
