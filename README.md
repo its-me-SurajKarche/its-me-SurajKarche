@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=its-me-surajkarche&show_icons=true&locale=en&layout=compact" alt="its-me-surajkarche" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-me-surajkarche&show_icons=true&locale=en" alt="its-me-surajkarche" /></p>
+<p>&nbsp;<img align="right" width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-me-surajkarche&show_icons=true&locale=en" alt="its-me-surajkarche" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-surajkarche&" alt="its-me-surajkarche" /></p>
