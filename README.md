@@ -1,4 +1,4 @@
-<!--![logo](https://github.com/its-me-SurajKarche/its-me-SurajKarche/blob/main/coverImg.gif)-->
+![logo](https://github.com/its-me-SurajKarche/its-me-SurajKarche/blob/main/coverImg.gif)
 
 <!--
 **its-me-SurajKarche/its-me-SurajKarche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
