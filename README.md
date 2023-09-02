@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **surajkarche@gmail.com**
 
-- 📄 Know about my experiences [https://openpageportfoliobysurajkarche.netlify.app/](https://openpageportfoliobysurajkarche.netlify.app/)
+- 📄 Know about my experiences [https://surajkarcheportfolio.netlify.app/](https://surajkarcheportfolio.netlify.app/)
 
 - ⚡ Fun fact **I am Funny😅**
 
