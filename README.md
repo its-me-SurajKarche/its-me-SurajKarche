@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-surajkarche&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-surajkarche" /> </p>
 
-- 🔭 I’m **Full Stack Java Developer**
+- 🔭 I’m **Software Developer**
 
 - 🌱 I’m currently learning **Spring Frameworks**
 
-- 👨‍💻 All of my projects are available at https://github.com/its-me-SurajKarche
+- 👨‍💻 All of my projects are available at<br> https://github.com/its-me-SurajKarche
 
 - 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me **surajkarche@gmail.com**
 
-- 📄 Know about my experiences https://surajkarcheportfolio.netlify.app
+- 📄 Know about my experiences<br> https://surajkarcheportfolio.netlify.app
 
 - ⚡ Fun fact **I am Funny😅**
 
