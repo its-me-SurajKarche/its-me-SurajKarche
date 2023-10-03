@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m **Software Developer**
 
-- 🌱 I’m currently learning **React Js and Node js and Docker**
+- 🌱 I’m currently learning **React Js and Node Js**
 
 - 👨‍💻 All of my projects are available at<br> https://github.com/its-me-SurajKarche
 
